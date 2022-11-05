@@ -17,5 +17,4 @@ await radios[0].uncheck();
 
   //closing browser
     await browser.close();
-
 } )();
