@@ -1,5 +1,5 @@
 ## Setup
-Download and install [playwright](https://playwright.dev/)
+Download and install [visualstudio](https://code.visualstudio.com/download)
 
 # node package manager project
 > npm init -y
